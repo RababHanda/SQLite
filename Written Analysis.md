@@ -21,28 +21,34 @@ The weather in Torrid zones is warm throughout the year, instead of summers and 
 
 Comparing the temperature statistics in both months:
 <p align="center">
-<img src="/Resources/temp.png" width="60%" height="40%">
+<img src="/Resources/temp.png" width="40%" height="30%">
 </p>
 
 Comparing the precipitation statistics in both months:
 <p align="center">
-<img src="/Resources/prcp.png" width="60%" height="40%">
+<img src="/Resources/prcp.png" width="40%" height="30%">
 </p>
 
 #### Conclusion
- 1. December receives higher precipitation than June
+
+ 1. December receives higher precipitation than June 
  2. June has higher temperatures than December
  3. 
 
-| City Type | June | December |
-| --- | --- | --- |
-| Temperature | Average precipitation |
-| Precipitation | 1.3 : 1 |
-| Rural | 1.6 : 1 |
+ Additionaly, from common knowledge, it can drawn that hotter (and drier) months are more favourable for an ice-cream and a surfing busines.
+
+
 
 
 ![Old Math percent results](/Resources/bygrade_reading_new.png) 
 
 ## Summary
 
+The temperatures and the amount of precipitation varies over months, which is likely to affect the business. From common knowledge, it can drawn that hotter months are more favourable for an ice-cream business and drier months are more favourable for surfing busines. June is both, hotter and drier, compared to December. This makes the dry weather season a lot more beneficial for both business
 
+However, the temperatures between December and June aren't all that different. Looking at the graph below, there is significant overlap, therefore there will be temperatures in December that are good for the business
+<p align="center">
+<img src="/Resources/temp_graph.png" width="60%" height="40%">
+</p>
+
+![Old Math percent results](/Resources/temp_graph.png) 
