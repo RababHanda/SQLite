@@ -53,6 +53,6 @@ The precipitation trends show a stark difference between rainfall received in bo
 
 The days missed out in December and other wetter months (November to March) can be compensated for during days in the drier season (April to October)[^3]. The dry season is also longer than the wet deason, therefore the business will have oppurtunities to make up for the losses of the wet season. 
 
-[^3] https://www.tripsavvy.com/best-time-to-visit-hawaii-4174334#:~:text=Hawaii%20has%20a%20dry%20season,of%20Hawaii%20suffer%20drought%20conditions.
+[^3]: https://www.tripsavvy.com/best-time-to-visit-hawaii-4174334#:~:text=Hawaii%20has%20a%20dry%20season,of%20Hawaii%20suffer%20drought%20conditions.
 
-In conclusion, this is a very profitable business idea for the island of Oahu. 
+**In conclusion, this is a very profitable business idea for the island of Oahu.**
