@@ -42,13 +42,13 @@ The temperatures and the amount of precipitation varies over months, which is li
 However, the temperatures between December and June aren't all that different. Looking at the graph below, there is significant overlap, therefore there will be temperatures in December that are good for the business
 
 <p align="center">
-<img src="/Resources/temp_graph.png" width="40%" height="27%">
+<img src="/Resources/temp_graph.png" width="45%" height="30%">
 </p>
 
 The precipitation trends show a stark difference between rainfall received in both months. June does have spikes, but December has low bouts as well. 
 
 <p align="center">
-<img src="/Resources/prcp_graph.png" width="40%" height="27%">
+<img src="/Resources/prcp_graph.png" width="45%" height="30%">
 </p>
 
 The days missed out in December and other wetter months (November to March) can be compensated for during days in the drier season (April to October)[^3]. The dry season is also longer than the wet deason, therefore the business will have oppurtunities to make up for the losses of the wet season. 
